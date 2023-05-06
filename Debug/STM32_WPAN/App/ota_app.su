@@ -1,0 +1,8 @@
+../Drivers/CMSIS/Include/core_cm33.h:2448:34:__NVIC_SystemReset	0	static,ignoring_inline_asm
+../STM32_WPAN/App/ota_app.c:595:13:FM_WriteCallback	0	static
+../STM32_WPAN/App/ota_app.c:604:13:FM_EraseCallback	0	static
+../STM32_WPAN/App/ota_app.c:138:6:OTA_Notification	48	static
+../STM32_WPAN/App/ota_app.c:488:6:OTA_APP_EvtRx	0	static
+../STM32_WPAN/App/ota_app.c:525:6:OTA_APP_Init	24	static
+../STM32_WPAN/App/ota_app.c:543:9:OTA_APP_GetConfStatus	0	static
+../STM32_WPAN/App/ota_app.c:619:13:OTA_Conf_SendIndication	0	static

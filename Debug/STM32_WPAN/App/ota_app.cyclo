@@ -1,0 +1,8 @@
+core_cm33.h:2448:34:__NVIC_SystemReset	1
+ota_app.c:595:13:FM_WriteCallback	1
+ota_app.c:604:13:FM_EraseCallback	1
+ota_app.c:138:6:OTA_Notification	39
+ota_app.c:488:6:OTA_APP_EvtRx	1
+ota_app.c:525:6:OTA_APP_Init	3
+ota_app.c:543:9:OTA_APP_GetConfStatus	1
+ota_app.c:619:13:OTA_Conf_SendIndication	1

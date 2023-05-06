@@ -1,0 +1,4 @@
+../Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:56:6:SVCCTL_Init	0	static
+../Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:72:6:SVCCTL_RegisterSvcHandler	0	static
+../Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:89:6:SVCCTL_RegisterCltHandler	0	static
+../Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:101:28:SVCCTL_UserEvtRx	16	static
