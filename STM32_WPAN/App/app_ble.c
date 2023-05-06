@@ -1099,7 +1099,7 @@ void APP_BLE_Procedure_Gap_Central(ProcGapCentralId_t ProcGapCentralId)
       }
 
       paramB = 20;
-     status = hci_le_set_extended_scan_enable(1, 2, paramA, paramB);
+     status = hci_le_set_extended_scan_enable(1, 0x00, 0x00, 0x00);
 
      if (status != BLE_STATUS_SUCCESS)
             {
